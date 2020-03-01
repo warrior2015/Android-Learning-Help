@@ -4,10 +4,16 @@ Android codeLab - (Best place to learn with quality)
 https://codelabs.developers.google.com/?cat=Android
 
 ### Level 1: Beginer 
+* Kotlin
+* making view in xml
+* Recyclerview
+  * [ Basic & benifit over listview](https://www.youtube.com/watch?v=LqBlYJTfLP4&t=297s)
+  * [DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0) 
+  * [Less code using support Lib](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
-* Recyclerview 
 * Retrofit2  
-* Dagger2  
+* Dagger2
+* Coroutine
 
 ### Level 2.1: Intermediate 1 : Small app for learning design best practice
 
