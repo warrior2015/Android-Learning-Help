@@ -68,6 +68,10 @@ Java:  https://github.com/HoraApps/LeafPic
 Kotlin:
 https://github.com/kevalpatel2106/year-in-progress 
 
+* kriptofolio - full app tutorial with live app [blog](https://www.baruckis.com/android/kriptofolio-app-series/) - [code](https://github.com/baruckis/Kriptofolio) 
+
+
+
 
 These Git user more full app with source code 
 * [skydoves](https://github.com/skydoves?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=kotlin)
