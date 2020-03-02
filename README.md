@@ -10,7 +10,7 @@ https://codelabs.developers.google.com/?cat=Android
   * [ Basic & benifit over listview](https://www.youtube.com/watch?v=LqBlYJTfLP4&t=297s)
   * [DiffUtil](https://android.jlelse.eu/smart-way-to-update-recyclerview-using-diffutil-345941a160e0) 
   * [Less code using support Lib](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
-  *[mastering recyclerview](https://www.youtube.com/watch?v=KhLVD6iiZQs)
+  * [mastering recyclerview](https://www.youtube.com/watch?v=KhLVD6iiZQs)
 
 * Retrofit2  
 * Dagger2
