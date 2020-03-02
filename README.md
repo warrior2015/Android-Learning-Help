@@ -12,7 +12,7 @@ https://codelabs.developers.google.com/?cat=Android
   * [Less code using support Lib](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
   * [mastering recyclerview](https://www.youtube.com/watch?v=KhLVD6iiZQs)
 
-* Retrofit2  
+* Retrofit2 : [ google codelab](https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-data/#0) -  [ sample code](https://github.com/google-developer-training/android-kotlin-fundamentals-apps/tree/master/MarsRealEstateNetwork) 
 * Dagger2
 * Coroutine
 
