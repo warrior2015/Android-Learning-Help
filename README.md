@@ -4,7 +4,8 @@ Android codeLab - (Best place to learn with quality)
 https://codelabs.developers.google.com/?cat=Android
 
 ### Level 1: Beginer 
-* [Kotlin](https://developer.android.com/courses/kotlin-bootcamp/overview) 
+* [Kotlin](https://developer.android.com/courses/kotlin-bootcamp/overview)
+* [Learing training from google](https://developer.android.com/courses)
 * making view in xml
 * Recyclerview
   * [ Basic & benifit over listview](https://www.youtube.com/watch?v=LqBlYJTfLP4&t=297s)
