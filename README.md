@@ -40,7 +40,7 @@ SinglePage App  for coding challenge / Practice
 
 * Marvel character app - 
 
-* [(Stack user fetch)](https://github.com/warrior2015/Kotlin-Rx-Stackoverflow-user-fetch) Good example of some advance Rxjava  operator like zip.
+* [(Stack user fetch)](https://github.com/warrior2015/Kotlin-Rx-Stackoverflow-user-fetch) Good example of some advance Rxjava  operator like zip and MVP arctectecture.
 
 ### Level 2.2: Intermediate 2:  Quality code with some advance concept
 #### Google quality code
