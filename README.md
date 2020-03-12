@@ -95,4 +95,6 @@ https://android-arsenal.com/conferences
 
 [Android design guideline and naming conventions](https://github.com/ribot/android-guidelines)
 
+[Code Path have many linke for teaching and learning](https://guides.codepath.com/android/Home#getting-started)
+
 
