@@ -57,7 +57,7 @@ Same application with diffrent archtitecture (MVP / MVVM / with Rx / With corout
 * [architecture-components-samples](https://github.com/android/architecture-components-samples): Samples for Android Architecture Components.
 
 * [android repo here](https://github.com/android?utf8=%E2%9C%93&q=&type=&language=kotlin)
-* [Google code samples](https://github.com/google-developer-trainin) 
+* [Google code samples](https://github.com/google-developer-training) 
 
 
 ## Level 3:Advance full app: 
@@ -81,6 +81,7 @@ https://github.com/kevalpatel2106/year-in-progress
 These Git user more full app with source code 
 * [skydoves](https://github.com/skydoves?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=kotlin)
 * [android10](https://github.com/android10?utf8=%E2%9C%93&tab=repositories&q=&type=&language=kotlin)
+* [VMadalin](https://github.com/VMadalin)
 
 #### Kotlin Interview questions:
 Coding challenge : https://github.com/android10/Kotlin-Cracking-The-Engineer-Interview
