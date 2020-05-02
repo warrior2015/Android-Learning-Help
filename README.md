@@ -98,4 +98,6 @@ https://android-arsenal.com/conferences
 
 [Code Path have many linke for teaching and learning](https://guides.codepath.com/android/Home#getting-started)
 
+[Template to use new project](https://github.com/cortinico/kotlin-android-template)
+
 
