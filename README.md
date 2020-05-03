@@ -98,6 +98,8 @@ https://android-arsenal.com/conferences
 
 [Code Path have many linke for teaching and learning](https://guides.codepath.com/android/Home#getting-started)
 
-[Template to use new project](https://github.com/cortinico/kotlin-android-template)
+[Template to use new project latest buildsrc folder](https://github.com/cortinico/kotlin-android-template)
+
+[working app with multiple modules] https://github.com/warrior2015/kotlin-modular-tdd-coroutines-mvvm.git
 
 
