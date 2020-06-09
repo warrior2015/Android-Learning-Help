@@ -103,16 +103,13 @@ https://android-arsenal.com/conferences
 [working app with multiple modules] https://github.com/warrior2015/kotlin-modular-tdd-coroutines-mvvm.git
 
 ## Interview code chanlanges kotlin
-[My chalanges] - https://github.com/warrior2015/coding-kata-chalange-interview
-ohter chalanges found on net :
+[My chalanges](https://github.com/warrior2015/coding-kata-chalange-interview)
 
-[BusyFlight:] https://github.com/jesusgsdev/busyflights
-[Mastermind: Coursera 2nd week chalange] https://github.com/jesusgsdev/mastermind-kotlin
+[BusyFlight:](https://github.com/jesusgsdev/busyflights)
 
-[niceString:] https://github.com/jesusgsdev/nicestring-kotlin
-[Rational numbers:] https://github.com/jesusgsdev/rational-kotlin.git
+[Mastermind: Coursera 2nd week chalange](https://github.com/jesusgsdev/mastermind-kotlin)
 
+[niceString:]( https://github.com/jesusgsdev/nicestring-kotlin)
 
-
-
+[Rational numbers:](https://github.com/jesusgsdev/rational-kotlin.git)
 
